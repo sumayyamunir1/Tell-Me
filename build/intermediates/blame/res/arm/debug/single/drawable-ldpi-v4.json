@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    }
+]

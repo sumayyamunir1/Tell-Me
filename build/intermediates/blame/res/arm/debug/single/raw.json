@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\raw\\gtm_analytics",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.2.1\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\raw\\gtm_analytics",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.2.1\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\raw\\gtm_analytics",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.2.1\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\raw\\gtm_analytics",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.2.1\\res\\raw\\gtm_analytics"
+    }
+]

@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.2.1\\res\\drawable-tvdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.2.1\\res\\drawable-tvdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_full_open_on_phone.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.2.1\\res\\drawable-tvdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.2.1\\res\\drawable-tvdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_full_open_on_phone.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.2.1\\res\\drawable-tvdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.2.1\\res\\drawable-tvdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.2.1\\res\\drawable-tvdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.2.1\\res\\drawable-tvdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_full_open_on_phone.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.2.1\\res\\drawable-tvdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.2.1\\res\\drawable-tvdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.2.1\\res\\drawable-tvdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_full_open_on_phone.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.2.1\\res\\drawable-tvdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.2.1\\res\\drawable-tvdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.2.1\\res\\drawable-tvdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.2.1\\res\\drawable-tvdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.2.1\\res\\drawable-tvdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\New folder\\Product\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMe\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\New folder (2)\\TellMe\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\res\\merged\\arm\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
+    }
+]

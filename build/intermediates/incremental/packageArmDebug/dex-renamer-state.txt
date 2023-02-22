@@ -1,0 +1,7 @@
+#Sat Jan 07 08:06:28 GMT+03:00 2017
+base.0=D\:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\transforms\\dex\\arm\\debug\\folders\\1000\\1f\\main
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\transforms\\dex\\arm\\debug\\folders\\1000\\1f\\main\\classes2.dex
+base.1=D\:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\transforms\\dex\\arm\\debug\\folders\\1000\\1f\\main
+file.0=D\:\\New folder (2)\\TellMewithoutSettings\\build\\intermediates\\transforms\\dex\\arm\\debug\\folders\\1000\\1f\\main\\classes.dex

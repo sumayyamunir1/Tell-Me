@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/topLayout"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:keepScreenOn="true"
+    android:weightSum="1"
+    android:background="@android:color/white"
+    >
+
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tell Me"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="40sp"
+        android:layout_marginTop="68dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="80dp"
+        android:background="@drawable/blind"
+        android:id="@+id/imageView"
+        android:layout_toLeftOf="@+id/title"
+        android:layout_toStartOf="@+id/title"
+        android:layout_alignBottom="@+id/title"
+        android:layout_marginRight="20dp"
+        android:layout_marginEnd="16dp" />
+
+    <Button
+        android:id="@+id/btn_settings"
+        android:text="@string/settings"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/colorPrimaryLight"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="80dp"
+        android:layout_marginStart="80dp"
+        />
+
+    <Button
+        android:id="@+id/btn_proceed"
+        android:text="@string/proceed"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/colorPrimaryLight"
+        android:layout_below="@+id/btn_settings"
+        android:layout_alignLeft="@+id/btn_settings"
+        android:layout_alignStart="@+id/btn_settings"
+        android:layout_alignRight="@+id/btn_settings"
+        android:layout_alignEnd="@+id/btn_settings"
+        android:layout_marginTop="20dp"
+        />
+
+
+</RelativeLayout>

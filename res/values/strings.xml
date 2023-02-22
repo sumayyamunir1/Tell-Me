@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="TypographyDashes">
+    <!-- Please refer to http://oxford-portal.azurewebsites.net/doc/general/subscription-key-mgmt to get your subscription key -->
+    <!-- If you have one subscription key, you can add it here to use the service -->
+    <string name="primaryKey">d0386438fe294e5eadd0e48e9ccf298c</string>
+    <string name="secondaryKey">06f987fc4ce548b3bc21fe9d1bfaa550</string>
+    <string name="add_subscription_key_tip_title">Subscription Key is Needed</string>
+    <string name="add_subscription_key_tip">Please put your subscription key to source file \"app/res/values/strings.xml\" to enable Face API calls.</string>
+
+    <string name="subscription_key">7b37f84802fe4c79bc4d2a5aac81c624</string>
+    <string name="subscription_key_faces">442256e8ea6a40f488ffcda0e5c0401a</string>
+    <string name="t_to_s_subscription_key">747ed7117ef147ba9b05a50b6f1ba2b8</string>
+    <string name="luisAppID">yourLuisAppID</string>
+    <string name="luisSubscriptionID">yourLuisSubscriptionID</string>
+
+    <string name="app_name">Tell Me</string>
+    <string name="action_settings">Settings</string>
+    <string name="settings">Settings</string>
+    <string name="proceed">Proceed</string>
+    <string name="item_text">Item Text</string>
+
+    <string name="select">Select the two images to be compared</string>
+    <string name="start">Start processing</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="orb">ORB</string>
+    <string name="freak">FREAK</string>
+    <string name="brisk">BRISK</string>
+    <string name="brief">BRIEF</string>
+    <string name="surf">SURF</string>
+    <string name="sift">SIFT</string>
+    <string name="Apply">Apply Settings</string>
+    <string name="min_dist">Hamming distance between matched descriptors(Lower the more similar):</string>
+    <string name="min_dup">Minimum number of good matches to be recognized as a duplicate:</string>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+
+</resources>
